@@ -1,0 +1,7 @@
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\bin\Debug\SoyAğacı.exe.config
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\bin\Debug\SoyAğacı.exe
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\bin\Debug\SoyAğacı.pdb
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\obj\Debug\SoyAğacı.csprojAssemblyReference.cache
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\obj\Debug\SoyAğacı.csproj.CoreCompileInputs.cache
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\obj\Debug\SoyAğacı.exe
+C:\Users\semra\source\repos\SoyAğacı\SoyAğacı\obj\Debug\SoyAğacı.pdb
